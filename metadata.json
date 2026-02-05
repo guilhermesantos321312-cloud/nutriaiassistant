@@ -1,0 +1,7 @@
+{
+  "name": "NutiAI - Seu Assistente de Nutrição",
+  "description": "Uma plataforma completa de nutrição com IA para planejamento de refeições, reconhecimento de alimentos e acompanhamento de saúde.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
